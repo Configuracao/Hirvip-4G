@@ -1,8 +1,8 @@
 {
-    "Version": "44",
+    "Version": "1",
     "ReleaseNotes": "CLARO SIN REDES FULL AGREGADO✅️",
     "Sms": "",
-    "UrlUpdate": "https://raw.githubusercontent.com/Configuracao/Hirvip-4G/refs/heads/main/config.json",
+    "UrlUpdate": "https://raw.githubusercontent.com/Configuracao/Hirvip-4G/refs/heads/main/eduardoc4g.json",
     "EmailFeedback": "kevinalexander790588@gmail.com",
     "UrlContato": "",
     "UrlTermos": "",
@@ -36,20 +36,10 @@
             "ProxyPort": "80",
             "Info": "Proxy"
         },
-{
+        {
             "Name": "CLARO REDES 2",
             "FLAG": "claro",
             "Payload": "OPTIONS / HTTP/1.1[crlf]Host: outlook.giphy.com[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: d2j8fq8b18bg40.cloudfront.net[crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "outlook.giphy.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-{
-            "Name": "CLARO REDES🎮",
-            "FLAG": "claro",
-            "Payload": "OPTIONS / HTTP/1.1[crlf]Host: outlook.giphy.com[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: d2pbptohdk671o.cloudfront.net[crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "outlook.giphy.com",
@@ -67,22 +57,22 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIGO ILIMITADO",
+            "Name": "TIGO 1",
             "FLAG": "tim",
-            "Payload": "ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]|ACL",
+            "Payload": "HTTP/2/ 200 ok[crlf]Host: Line.me/f HTTP/*[crlf]HTTP/2/ 200 ok[crlf]Host: fb.me/0 HTTP/1./&[crlf]HTTP/2 200 ok[crlf]Host: flickr.comHTTP/*[crlf]HTTP/2/ 200 ok[crlf]Host: imms.com/ HTTP/*[crlf]HTTP/2/ 200 ok[crlf]Host: flickr.comHTTP/1.m[crlf]HTTP/2/ 200 ok[crlf]Host: Line.me/ HTTP/1./n[crlf]HTTP/2/ 200 ok[crlf]Host: dns.google.com/ HTTP/1./*[crlf]HTTP/2/ 200 ok[crlf]Host: gprs.google.com/ HTTP/1./r[crlf]HTTP/2/ 200 ok[crlf]Host: Line.meHTTP/1./n",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "hirvip-5g.shop",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
-{
-            "Name": "TIGO 🎮",
+        {
+            "Name": "TIGO 2",
             "FLAG": "tim",
-            "Payload": "ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]|ACL",
+            "Payload": "HTTP/1.6 200 ok[crlf]Host:[rotate=.br;ff.garena.com][crlf][ua]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "128.254.207.9",
+            "ProxyIP": "hirvip-5g.shop",
             "ProxyPort": "80",
             "Info": "Proxy"
         }
