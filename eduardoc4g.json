@@ -17,8 +17,8 @@
             "Name": "PREMIUM",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "hirvip-5g.shop",
-            "CheckUser": "https://painelconecta5g.com/checkuser.php?url=http://193.106.248.164:5454/checkUser",
+            "ServerIP": "193.106.248.164",
+            "CheckUser": "http://193.106.248.164:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
@@ -72,7 +72,7 @@
             "Payload": "HTTP/1.6 200 ok[crlf]Host:[rotate=.br;ff.garena.com][crlf][ua]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "hirvip-5g.shop",
+            "ProxyIP": "193.106.248.164",
             "ProxyPort": "80",
             "Info": "Proxy"
         }
