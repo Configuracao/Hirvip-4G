@@ -1,5 +1,5 @@
 {
-    "Version": "2",
+    "Version": "3",
     "ReleaseNotes": "MEJORA DE OTIMIZADO✅️",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/Configuracao/Hirvip-4G/refs/heads/main/eduardoc4g.json",
@@ -17,7 +17,7 @@
             "Name": "PREMIUM",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "193.106.248.164",
+            "ServerIP": "hirvip-5g.shop",
             "CheckUser": "http://193.106.248.164:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
@@ -72,7 +72,7 @@
             "Payload": "HTTP/1.6 200 ok[crlf]Host:[rotate=.br;ff.garena.com][crlf][ua]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "193.106.248.164",
+            "ProxyIP": "hirvip-5g.shop",
             "ProxyPort": "80",
             "Info": "Proxy"
         }
