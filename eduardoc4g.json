@@ -18,7 +18,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "hirvip-5g.shop",
-            "CheckUser": "http://193.106.248.164:5454/checkUser",
+            "CheckUser": "http://hirvip-5g.shop:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
