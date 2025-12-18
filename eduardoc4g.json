@@ -1,5 +1,5 @@
 {
-    "Version": "6",
+    "Version": "7",
     "ReleaseNotes": "MEJORA DE OTIMIZADO✅️",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/Configuracao/Hirvip-4G/refs/heads/main/eduardoc4g.json",
@@ -29,7 +29,7 @@
         {
             "Name": "CLARO REDES",
             "FLAG": "claro",
-            "Payload": "OPTIONS / HTTP/1.1[crlf]Host: outlook.giphy.com[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: d9jlhqmzcloch.cloudfront.net[crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "OPTIONS / HTTP/1.1[crlf]Host: outlook.giphy.com[crlf][crlf][split]GET / HTTP/1.1[crlf]Host: d2t3wtidniny97.cloudfront.net[crlf]Connection: Upgrade:  [crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "outlook.giphy.com",
