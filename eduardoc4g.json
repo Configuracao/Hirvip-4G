@@ -17,7 +17,7 @@
             "Name": "PREMIUM",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "5.34.178.162",
+            "ServerIP": "142.171.85.16",
             "CheckUser": "http://hirvip-5g.shop:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
@@ -52,7 +52,7 @@
             "Payload": "HTTP/2/ 200 ok[crlf]Host: Line.me/f HTTP/*[crlf]HTTP/2/ 200 ok[crlf]Host: fb.me/0 HTTP/1./&[crlf]HTTP/2 200 ok[crlf]Host: flickr.comHTTP/*[crlf]HTTP/2/ 200 ok[crlf]Host: imms.com/ HTTP/*[crlf]HTTP/2/ 200 ok[crlf]Host: flickr.comHTTP/1.m[crlf]HTTP/2/ 200 ok[crlf]Host: Line.me/ HTTP/1./n[crlf]HTTP/2/ 200 ok[crlf]Host: dns.google.com/ HTTP/1./*[crlf]HTTP/2/ 200 ok[crlf]Host: gprs.google.com/ HTTP/1./r[crlf]HTTP/2/ 200 ok[crlf]Host: Line.meHTTP/1./n",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "5.34.178.162",
+            "ProxyIP": "hirvip-5g.shop",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -62,7 +62,7 @@
             "Payload": "HTTP/1.6 200 ok[crlf]Host:[rotate=.br;ff.garena.com][crlf][ua]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "5.34.178.162",
+            "ProxyIP": "hirvip-5g.shop",
             "ProxyPort": "80",
             "Info": "Proxy"
         }
