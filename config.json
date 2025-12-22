@@ -1,6 +1,6 @@
 {
     "Version": "2",
-    "ReleaseNotes": "CLARO SIN REDES FULL AGREGADO✅️",
+    "ReleaseNotes": "MEJORA DE OTIMIZACION✅️",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/Configuracao/Hirvip-4G/refs/heads/main/config.json",
     "EmailFeedback": "kevinalexander790588@gmail.com",
@@ -18,7 +18,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "hb.hirvip-5g.shop",
-            "CheckUser": "http://hb.hirvip-5g.shop:5454/checkUser",
+            "CheckUser": "http://128.254.207.9:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
@@ -42,7 +42,7 @@
             "Payload": "OPTIONS /HIRVIPHB🇸🇻🕶️ HTTP/1.1[lf]Host: pruebat.org[lf]Connection: close[crlf]X-Forwarded-For: pruebat.org[lf]Content-Length: 503504502\n-Control: 🕶️VPS\nConnection: sv[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "hb.hirvip-5g.shop",
+            "ProxyIP": "128.254.207.9",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -52,7 +52,7 @@
             "Payload": "ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]|ACL",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "hb.hirvip-5g.shop",
+            "ProxyIP": "128.254.207.9",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
