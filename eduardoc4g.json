@@ -1,5 +1,5 @@
 {
-    "Version": "9",
+    "Version": "10",
     "ReleaseNotes": "MEJORA DE OTIMIZADO✅️",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/Configuracao/Hirvip-4G/refs/heads/main/eduardoc4g.json",
@@ -43,7 +43,7 @@
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "hirvip-5g.shop",
-            "ProxyPort": "8080",
+            "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
