@@ -1,5 +1,5 @@
 {
-    "Version": "11",
+    "Version": "12",
     "ReleaseNotes": "MEJORA DE OTIMIZADO✅️",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/Configuracao/Hirvip-4G/refs/heads/main/eduardoc4g.json",
@@ -17,7 +17,7 @@
             "Name": "PREMIUM",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "142.171.85.16",
+            "ServerIP": "hirvip-5g.shop",
             "CheckUser": "http://hirvip-5g.shop:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
