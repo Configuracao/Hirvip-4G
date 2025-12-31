@@ -1,5 +1,5 @@
 {
-    "Version": "13",
+    "Version": "14",
     "ReleaseNotes": "MEJORA DE OTIMIZADO✅️",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/Configuracao/Hirvip-4G/refs/heads/main/eduardoc4g.json",
@@ -37,18 +37,15 @@
             "Info": "Proxy"
         },
         {
+        {
             "Name": "CLARO SIN REDES",
             "FLAG": "claro",
-            "Payload": "GET /app2 HTTP/1.1
-Host: hirvip-5g.store 
-Connection: Upgrade
-Upgrade: Websocket
-User-Agent: [ua][crlf][crlf]",
-            "SNI": "hirvip-5g.store",
-            "TlsIP": "acercade.telesalud.gob.sv",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
+            "Payload": "OPTIONS /HIRVIPHB🇸🇻🕶️ HTTP/1.1[lf]Host: pruebat.org[lf]Connection: close[crlf]X-Forwarded-For: pruebat.org[lf]Content-Length: 503504502\n-Control: 🕶️VPS\nConnection: sv[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "hirvip-5g.store",
+            "ProxyPort": "8080",
+            "Info": "Proxy"
         },
         {
             "Name": "TIGO 1",
