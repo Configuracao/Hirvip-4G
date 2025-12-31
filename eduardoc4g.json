@@ -37,7 +37,6 @@
             "Info": "Proxy"
         },
         {
-        {
             "Name": "CLARO SIN REDES",
             "FLAG": "claro",
             "Payload": "OPTIONS /HIRVIPHB🇸🇻🕶️ HTTP/1.1[lf]Host: pruebat.org[lf]Connection: close[crlf]X-Forwarded-For: pruebat.org[lf]Content-Length: 503504502\n-Control: 🕶️VPS\nConnection: sv[lf][lf]",
