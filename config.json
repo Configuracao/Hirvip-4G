@@ -1,5 +1,5 @@
 {
-    "Version": "3",
+    "Version": "4",
     "ReleaseNotes": "MEJORA DE OTIMIZACION✅️",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/Configuracao/Hirvip-4G/refs/heads/main/config.json",
@@ -45,6 +45,16 @@
             "ProxyIP": "128.254.207.9",
             "ProxyPort": "80",
             "Info": "Proxy"
+        },
+        {
+            "Name": "CLARO SIN REDES 2",
+            "FLAG": "claro",
+            "Payload": "GET / HTTP/1.1[crlf]Host: hb.hirvip-5g.store[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "hirvip-5g.store",
+            "TlsIP": "acercade.telesalud.gob.sv",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
         },
         {
             "Name": "TIGO ILIMITADO",
