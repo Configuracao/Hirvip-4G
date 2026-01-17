@@ -18,7 +18,7 @@
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "hb.hirvip-5g.shop",
-            "CheckUser": "http://128.254.207.9:5454/checkUser",
+            "CheckUser": "http://102.129.137.43:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
@@ -42,7 +42,7 @@
             "Payload": "OPTIONS /HIRVIPHB🇸🇻🕶️ HTTP/1.1[lf]Host: pruebat.org[lf]Connection: close[crlf]X-Forwarded-For: pruebat.org[lf]Content-Length: 503504502\n-Control: 🕶️VPS\nConnection: sv[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "128.254.207.9",
+            "ProxyIP": "102.129.137.43",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -62,7 +62,7 @@
             "Payload": "ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]|ACL",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "128.254.207.9",
+            "ProxyIP": "102.129.137.43",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -72,7 +72,7 @@
             "Payload": "ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]|ACL",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "128.254.207.9",
+            "ProxyIP": "102.129.137.43",
             "ProxyPort": "80",
             "Info": "Proxy"
         }
