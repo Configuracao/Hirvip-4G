@@ -1,5 +1,5 @@
 {
-    "Version": "5",
+    "Version": "6",
     "ReleaseNotes": "MEJORA DE OTIMIZACION✅️",
     "Sms": "",
     "UrlUpdate": "https://raw.githubusercontent.com/Configuracao/Hirvip-4G/refs/heads/main/config.json",
@@ -17,8 +17,8 @@
             "Name": "PREMIUM",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "hb.hirvip-5g.shop",
-            "CheckUser": "http://102.129.137.43:5454/checkUser",
+            "ServerIP": "hb.hirvip-5g.store",
+            "CheckUser": "http://hb.hirvip-5g.store:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
             "USER": "",
@@ -42,7 +42,7 @@
             "Payload": "OPTIONS /HIRVIPHB🇸🇻🕶️ HTTP/1.1[lf]Host: pruebat.org[lf]Connection: close[crlf]X-Forwarded-For: pruebat.org[lf]Content-Length: 503504502\n-Control: 🕶️VPS\nConnection: sv[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "102.129.137.43",
+            "ProxyIP": "hb.hirvip-5g.store",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -50,7 +50,7 @@
             "Name": "CLARO SIN REDES 2",
             "FLAG": "claro",
             "Payload": "GET / HTTP/1.1[crlf]Host: hb.hirvip-5g.store[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "hirvip-5g.store",
+            "SNI": "hb.hirvip-5g.store",
             "TlsIP": "acercade.telesalud.gob.sv",
             "ProxyIP": "",
             "ProxyPort": "443",
@@ -59,20 +59,10 @@
         {
             "Name": "TIGO ILIMITADO",
             "FLAG": "tim",
-            "Payload": "ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]|ACL",
+            "Payload": "HTTP/2.0  200[crlf]Host:[random=chaparrita.colochita.org;about.meituan.com;tv.kankan.com;store.steampowered.com;map.baidu.com;list.tmall.com;yandex.com;qzone.qq.com;v.qq.com;y.qq.com;www.bb.com.br;ok.ru;www.dropbox.com;www.epicgames.com;youku.com;sll.zc.qq.com;www.tiktok.com;tidal.com;www.funk.com;gsuite.google.com;www.voxer.com]\n200 Connection established\nProxy-Connection: close\nConnection-Keep-true\nControl-Cache: no-cache\nContent-Length: 9999999999999999999\nUser-Agent: Yes \nContent-Encoding: 88888888\nContent-Language: 00000000\nContent-Length: 55555555\nContent-Location:33333333[crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "102.129.137.43",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIGO 🎮",
-            "FLAG": "tim",
-            "Payload": "ACL buzzfeed.com HTTP/1.1[lf]Host:buzzfeed.com[lf]|ACL",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "102.129.137.43",
+            "ProxyIP": "hb.hirvip-5g.store",
             "ProxyPort": "80",
             "Info": "Proxy"
         }
