@@ -17,7 +17,7 @@
             "Name": "PREMIUM",
             "TYPE": "premium",
             "FLAG": "br.png",
-            "ServerIP": "hb.hirvip-5g.store",
+            "ServerIP": "128.254.207.9",
             "CheckUser": "http://hb.hirvip-5g.store:5454/checkUser",
             "ServerPort": "22",
             "SSLPort": "443",
@@ -42,7 +42,7 @@
             "Payload": "OPTIONS /HIRVIPHB🇸🇻🕶️ HTTP/1.1[lf]Host: pruebat.org[lf]Connection: close[crlf]X-Forwarded-For: pruebat.org[lf]Content-Length: 503504502\n-Control: 🕶️VPS\nConnection: sv[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "hb.hirvip-5g.store",
+            "ProxyIP": "128.254.207.9",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
